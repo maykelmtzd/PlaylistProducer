@@ -1,0 +1,2 @@
+
+-Implement clone method or inherit from ValueObject class(Get from some pluralsight course) on Song class. TeamMember class should return a copy of song in NextSong method.
